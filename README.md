@@ -1,1 +1,1 @@
-# HackGSUInstant
+# Economical
