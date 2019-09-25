@@ -1,5 +1,7 @@
 # Economical
 
+![](https://github.com/malekamiri/Economical/blob/master/gallery.jpg)
+
 ## Inspiration
 
 Helping the homeless, reducing wasted food, providing cheap and nutritious options for food are all our inspiration for this project.
